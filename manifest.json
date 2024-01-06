@@ -1,0 +1,13 @@
+{
+    "name": "De Dictionary",
+    "version": "1.0.0",
+    "description": "Word Meaning, Example and Phonetics ",
+    "manifest_version": 3,
+    "author": "Tunde Sanusi (Tuham)",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Words Meaning"
+    },
+    "homepage_url": "https://de-dictionary.vercel.app"
+}
+

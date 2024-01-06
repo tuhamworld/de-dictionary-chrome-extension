@@ -1,0 +1,1 @@
+"# de-dictionary-chrome-extension" 
